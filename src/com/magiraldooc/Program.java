@@ -31,7 +31,7 @@ public class Program {
         var sc = new Scanner(System.in);
         System.out.println("Por favor ingrese su nombre");
         var nombre = sc.nextLine();
-        System.out.println("Hola " + nombre + "!");
+        System.out.println("Hola " + nombre + " !");
     }
 
     public int solution(String S, int[] C) {
